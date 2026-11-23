@@ -1,0 +1,288 @@
+{
+    "version": 508,
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 7,
+    "overlay_width": 2032,
+    "overlay_height": 1325,
+    "elements": [
+        {
+            "id": "body",
+            "type": 0,
+            "pos": [
+                0,
+                0
+            ],
+            "mapping": [
+                1,
+                1,
+                2032,
+                1325
+            ],
+            "z_level": 0
+        },
+        {
+            "id": "dpad",
+            "type": 8,
+            "pos": [
+                209,
+                302
+            ],
+            "mapping": [
+                1,
+                1329,
+                362,
+                357
+            ],
+            "z_level": 1
+        },
+        {
+            "id": "lt",
+            "pos": [
+                266,
+                0
+            ],
+            "mapping": [
+                323,
+                1689,
+                327,
+                131
+            ],
+            "z_level": 1,
+            "type": 6,
+            "side": 0,
+            "trigger_mode": false,
+            "direction": 1
+        },
+        {
+            "id": "rt",
+            "pos": [
+                1425,
+                0
+            ],
+            "mapping": [
+                653,
+                1689,
+                335,
+                131
+            ],
+            "z_level": 1,
+            "type": 6,
+            "side": 1,
+            "trigger_mode": false,
+            "direction": 1
+        },
+        {
+            "id": "lb",
+            "pos": [
+                202,
+                67
+            ],
+            "mapping": [
+                991,
+                1689,
+                363,
+                175
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 9
+        },
+        {
+            "id": "rb",
+            "pos": [
+                1461,
+                66
+            ],
+            "mapping": [
+                1357,
+                1689,
+                364,
+                175
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 10
+        },
+        {
+            "id": "a",
+            "pos": [
+                1563,
+                563
+            ],
+            "mapping": [
+                1724,
+                1689,
+                158,
+                152
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 0
+        },
+        {
+            "id": "b",
+            "pos": [
+                1710,
+                419
+            ],
+            "mapping": [
+                1885,
+                1689,
+                157,
+                152
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 1
+        },
+        {
+            "id": "x",
+            "pos": [
+                1407,
+                418
+            ],
+            "mapping": [
+                2045,
+                1689,
+                157,
+                153
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 2
+        },
+        {
+            "id": "y",
+            "pos": [
+                1565,
+                275
+            ],
+            "mapping": [
+                2205,
+                1689,
+                157,
+                153
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 3
+        },
+        {
+            "id": "stadia",
+            "pos": [
+                936,
+                682
+            ],
+            "mapping": [
+                2365,
+                1689,
+                155,
+                142
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 5
+        },
+        {
+            "id": "options",
+            "pos": [
+                686,
+                303
+            ],
+            "mapping": [
+                2523,
+                1689,
+                130,
+                75
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 4
+        },
+        {
+            "id": "menu",
+            "pos": [
+                1206,
+                303
+            ],
+            "mapping": [
+                2656,
+                1689,
+                130,
+                75
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 6
+        },
+        {
+            "id": "assistant",
+            "pos": [
+                797,
+                438
+            ],
+            "mapping": [
+                2789,
+                1689,
+                106,
+                102
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 21
+        },
+        {
+            "id": "capture",
+            "pos": [
+                1120,
+                438
+            ],
+            "mapping": [
+                2898,
+                1689,
+                105,
+                102
+            ],
+            "z_level": 1,
+            "type": 2,
+            "code": 15
+        },
+        {
+            "id": "left_stick",
+            "type": 5,
+            "side": 0,
+            "stick_radius": 40,
+            "pos": [
+                513,
+                602
+            ],
+            "mapping": [
+                1,
+                1689,
+                319,
+                295
+            ],
+            "z_level": 2
+        },
+        {
+            "id": "right_stick",
+            "type": 5,
+            "side": 1,
+            "stick_radius": 40,
+            "pos": [
+                1190,
+                602
+            ],
+            "mapping": [
+                1,
+                1689,
+                319,
+                295
+            ],
+            "z_level": 2
+        }
+    ]
+}
