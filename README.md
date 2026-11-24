@@ -38,7 +38,7 @@ Each of these colorways have different hand-crafted variants to choose from, dep
 
 However, if you already have the plugin installed, here's how to get the preset working on OBS Studio:
 
-1. **Download** the preset from the releases page
+1. **Download** the preset from <a href="https://github.com/steb-git/stadiacon-inputoverlay/releases">the releases page</a>
 2. **Extract** the preset's contents anywhere accessible (though, I recommend putting it inside <code>C:\ProgramData\obs-studio\plugins</code> for better access)
 3. Once extracted, add "Input Overlay" as a new source in your OBS Studio dashboard.
 4. Right click it, and head over to **properties**.
