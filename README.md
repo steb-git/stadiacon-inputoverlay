@@ -78,7 +78,9 @@ When done right, it should look like this:
 
 ## For developers:
 
-**Great news!** aside from using this preset as an input overlay appearance, you can freely use any of the PNG texture files (Including the respective SVG source file) for your own personal projects! As this is already one of the most defined textures for the Stadia controllers out there, you can easily integrate these on your workflows, especially if you're making a button mapper project of some sort.
+**Great news!** aside from using this preset as an input overlay appearance, you can freely use any of the PNG texture files (Including the respective SVG source file) for your own personal projects! 
+
+As this is already one of the most defined textures for the Stadia controller out there, you can easily integrate these on your workflows, especially if you're making a button mapper project of some sort.
 
 <hr>
 
