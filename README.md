@@ -4,9 +4,15 @@
 
 A controller preset, modelled after the _most ergonomic*_ Stadia controller, for use with the <a href=https://github.com/univrsal/input-overlay>Input Overlay plugin by univrsal</a> on OBS Studio.
 
-(Requires Input Overlay v5.0 in order for it to work.)
+(Requires Input Overlay v5.0, OBS Studio 30 or newer in order for it to work.)
 
-_Made with inkscape._
+_Created with inkscape._
+
+<hr>
+
+Rep your Stadia controller, LIVE with this preset! 
+
+Each of the buttons respond with your presses through colorful, caved-in buttons, a _semi_-lifelike perspective of the controller pad, with many variants and colorways to choose from, mirroring your actual Stadia controller color!
 
 <hr>
 
@@ -37,6 +43,8 @@ However, if you already have the plugin installed, here's how to get the preset 
 3. Once extracted, add "Input Overlay" as a new source in your OBS Studio dashboard.
 4. Right click it, and head over to **properties**.
 5. For the **Overlay Image File**, choose one of the variants inside the extracted folder (the ones under the .PNG format); thus, for the **Overlay config file**, select the included configuration file named <code>stadia-controller.json</code> so it won't look crazed out.
+
+_(NOTE: make sure your stadia controller is detected and connected!)_
 
 When done right, it should look like this:
 
@@ -78,7 +86,7 @@ When done right, it should look like this:
 
 ## For developers:
 
-**Great news!** aside from using this preset as an input overlay appearance, you can freely use any of the PNG texture files (Including the respective SVG source file) for your own personal projects! 
+**Great news!** aside from using this preset as an input overlay appearance, you can freely use **any** of the PNG texture files (Including the respective SVG source file) for your own personal projects! 
 
 As this is already one of the most defined textures for the Stadia controller out there, you can easily integrate these on your workflows, especially if you're making a button mapper project of some sort.
 
