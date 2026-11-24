@@ -1,4 +1,4 @@
-<h1 align=center>Stadia Controller - Input Overlay Skin</h1>
+<h1 align=center>Stadia Controller - Input Overlay Preset</h1>
 
 <img width="3270" height="1080" alt="image" src="https://github.com/user-attachments/assets/f435a3d2-777c-4da7-9d27-96298d13b536" />
 
